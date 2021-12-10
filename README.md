@@ -6,10 +6,9 @@
 Autor: Judit Sardón
 
 
-Fecha: 09/12/2021
+Fecha: 10/12/2021
 
 ![Cultura Digital](https://concepto.de/wp-content/uploads/2015/03/software-1-e1550080097569.jpg) 
-
 
 
 
