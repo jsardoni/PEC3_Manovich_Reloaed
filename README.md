@@ -18,7 +18,7 @@ Fecha: 10/12/2021
 La hibridación de medios consiste en una **remediación dónde dos medios coexisten**. A diferencia con la multimedia, estos deben actuar de manera conjunta, dando lugar a un nuevo software y/o lenguaje,una mezcla de ambos medios que actúan de manera simultánea. Es decir, el nuevo medio no es una suma de los dos originales que actúan de manera aislada, sino que da lugar a una evolución dónde se aúnan prestaciones de los originales e interactúan entre ellas. 
 
 En este caso analizaremos dos casos de hibridación:
-Manipulación de imágen en redes sociales mediante **la tecnología MSQRD y la "softwaretización" de los coches.**
+Manipulación de imágen en redes sociales mediante **la tecnología MSQRD y la "softwarización" de los coches.**
 
 
 ## TECNOLOGÍA MSQRD EN RRSS
@@ -36,7 +36,7 @@ Tanta importancia tiene este recurso a la hora de comunicarnos con el resto desd
 
 ![Cultura Digital](https://i1.wp.com/codigoespagueti.com/wp-content/uploads/2016/06/FacebookLive_MSQRD.jpg?fit=640%2C360&quality=80&ssl=1)
 
-## "SOFTWARETIZACIÓN" DEL AUTOMÓVIL
+## "SOFTWARIZACIÓN" DEL AUTOMÓVIL
 Para hablar de este caso hablaré de lo que empezó siendo un automóvil, del punto en el que estamos y del lugar hacia dónde vamos.
 Los vehículos son un medio de transporte para un grupo muy reducido de personas cuyo objetivo El poder recibir una serie de inputs del conductor y maniobrar en base a estas directrices. 
 Además con el tiempo se les ha añadido otros medios, también fruto de la hibridación para mejorarlo. estos medios son por ejemplo la radio que es ya un básico en cualquer coche.
